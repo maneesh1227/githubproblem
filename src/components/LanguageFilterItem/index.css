@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.buttons {
+  background-color: transparent;
+  min-width: 50px;
+  height: 30px;
+  border-radius: 15px;
+  font-size: 16px;
+  border: none;
+}
+.selected-btn {
+  background-color: transparent;
+  min-width: 50px;
+  height: 30px;
+  border-radius: 15px;
+  font-size: 16px;
+  border: solid #0284c7;
+  color: #0284c7;
+}

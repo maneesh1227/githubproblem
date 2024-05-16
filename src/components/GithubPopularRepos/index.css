@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.back {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.language-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 40%;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.popular {
+  color: #0f172a;
+  font-size: 40px;
+  font-family: Lobster;
+  margin-bottom: 30px;
+}
+.failure-img {
+  height: 200px;
+  width: 200px;
+}
